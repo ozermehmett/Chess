@@ -2,7 +2,6 @@
 This Python program implements a chess engine that allows users to play chess against each other or watch AI vs AI matches. The program provides a graphical user interface using the Pygame library and includes the following features:
 
 ## Features
-* Player vs Player: Play chess against another human player.
 * AI vs Player: Challenge yourself by playing against a computer-controlled AI.
 * AI vs AI: Watch two AI players compete against each other in chess matches.
 * Game Outcome: Determine the outcome of the game, including checkmate, draw, or stalemate.
