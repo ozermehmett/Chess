@@ -30,6 +30,10 @@ This Python program implements a chess engine that allows users to play chess ag
 -  Move Log Display: The move log is displayed on the right side of the game screen, showing the sequence of moves played.
 -  AI Difficulty: The difficulty of the AI opponent can be adjusted to provide a more challenging game experience.
 
+## Game Video
+https://github.com/ozermehmett/Chess/assets/115498182/1c832b1c-c113-4fd9-a252-69a26397475c
+
+
 ## Did you find this repository helpful?
 Do not forget to give a start
 
